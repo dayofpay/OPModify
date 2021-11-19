@@ -1,0 +1,9 @@
+name: OPModify
+version: '${project.version}'
+main: me.dayofpay.opmodify.OPModify
+authors: [ dayofpay ]
+description: Disable specific commands for op players
+website: https://v-devs.eu
+commands:
+  magmamessage:
+    description: Показва ви съобщението при блокирана команда
